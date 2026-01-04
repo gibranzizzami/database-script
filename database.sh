@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME=$('nama-database')
+NAME=$('arsip')
 COLM=$('nama-kolom')
 INST=$('nama-isian')
 
