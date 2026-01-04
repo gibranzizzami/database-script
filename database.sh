@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME="arsip"
+NAME="nama-database"
 TABS="nama-table"
 COLM="nama-kolom"
 INST="nama-isian"
